@@ -1,0 +1,4 @@
+function SciCodeInput()
+{
+	return "SciCode"
+}
